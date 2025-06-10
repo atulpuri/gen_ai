@@ -1,2 +1,2 @@
-# courses
-This is will my repository for online course work.
+# Gen AI
+Exploring applications of llamaindex and langchain 
